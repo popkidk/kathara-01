@@ -1,4 +1,4 @@
-
+pkg upgrade
 <!-- Glowing Header -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
@@ -49,6 +49,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+BWM+XMD+Quantum+Edition+by+Ibrahim+Adams;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
 </h3>
 
-<p align="center">
+<p align="justified">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
