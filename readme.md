@@ -12,10 +12,5 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-<!-- Banner Image -->
-<p align="center">
-  <a href="https://files.catbox.moe/c07f3s.jpeg">
-    <img src="https://files.catbox.moe/c07f3s.jpeg" width="100%" height="auto">
-  </a>
 </p>
 
