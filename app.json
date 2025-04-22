@@ -1,7 +1,7 @@
 
 {
-  "name": "BWM-XMD-QUANTUM",
-  "description": "Best WhatsApp bot developed by Ibrahim Adams",
+  "name": "MR LIKE",
+  "description": "Best WhatsApp bot developed by Kathara",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/2kcb4s.jpeg",
   "repository": "https://github.com/ekitale/maths-project",
@@ -40,7 +40,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "MR LIKE-XMD",
       "required": false
     },
     "BOT_IMAGE": {
@@ -64,7 +64,7 @@
       "required": true 
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number eg, 2547xxxxxxx",
+      "description": "Enter your number eg, 254116141363",
       "value": "",
       "required": true 
     },
@@ -85,7 +85,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "kathara",
       "required": false
     },
     "SESSION_ID": {
